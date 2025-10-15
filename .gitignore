@@ -7,7 +7,6 @@
 .python-version
 d3rlpy_data
 test_data
-runs
 Runs/d3rlpy_logs
 docs/_build
 docs/d3rlpy*.rst
