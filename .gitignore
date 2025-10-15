@@ -21,4 +21,3 @@ dist
 /.idea/
 *.egg-info
 /.vscode/
-/.github/
