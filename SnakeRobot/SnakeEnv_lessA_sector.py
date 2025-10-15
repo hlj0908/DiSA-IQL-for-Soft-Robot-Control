@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Feb 18 22:21:42 2023
-
-@author: Xinda Qi
-"""
-
 import math
 import numpy as np
 # from scipy import integrate
